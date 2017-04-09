@@ -1,0 +1,6 @@
+.sk-activate
+sk-workon.sh
+.tern-port
+.DS_Store
+settings.shanek.coffee
+spell.cache
