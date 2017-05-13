@@ -4,3 +4,4 @@ sk-workon.sh
 .DS_Store
 settings.shanek.coffee
 spell.cache
+*.swp
